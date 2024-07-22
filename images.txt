@@ -1,2 +1,1 @@
-fluentd:v1.9.1-debian-1.0
-
+nfs-client-provisioner
