@@ -1,5 +1,2 @@
-elasticsearch:7.17.10
-kibana:7.17.10
-logstash:7.17.10
-elastic/filebeat:7.17.10
+fluentd:v1.9.1-debian-1.0
 
