@@ -1,1 +1,1 @@
-dashboard-api:1.7.0
+kubernetesui/dashboard-api:1.7.0
